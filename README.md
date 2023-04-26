@@ -1,4 +1,8 @@
 # Parking Spot Control
+
+![Parking spot](https://user-images.githubusercontent.com/97182713/234459330-3d97c285-573e-4d69-9f2d-979213589c46.gif)
+
+
 ## :page_facing_up: Descrição
 É uma aplicação web desenvolvida para controle de vagas de estacionamento de um condomínio. Nela o usuário pode criar, listar, editar e deletar cadastro de moradores para a utilização das vagas disponíveis. CRUD criado utilizando Java, Spring framework e PostgresSQL.
 
